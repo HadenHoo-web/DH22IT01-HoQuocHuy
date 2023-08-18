@@ -2,99 +2,179 @@
     "game": [
         {
             "id":"1",
-            "src":"../images/d7019b28-7222-45db-9615-6e77918d2c1a.jpg",
-            "name":"game1",
-            "count":"4000"
+            "src":"../DH22IT01-HoQuocHuy/allgames/Cupcake Carnival.jpg",
+            "name":"Cupcake Carnival",
+            "count":"123445",
+            "star1":"solid",
+            "star2":"solid",
+            "star3":"regular",
+            "star4":"regular",
+            "star5":"regular"
         },
         {
             "id":"1",
-            "src":"",
-            "name":"game2",
-            "count":"8000"
+            "src":"../DH22IT01-HoQuocHuy/allgames/Food Icons.jpg",
+            "name":"Funny Carrots",
+            "count":"299327",
+            "star1":"solid",
+            "star2":"solid",
+            "star3":"solid",
+            "star4":"solid",
+            "star5":"solid"
         },
         {
             "id":"1",
-            "src":"",
-            "name":"game3",
-            "count":"8000"
+            "src":"../DH22IT01-HoQuocHuy/allgames/_Game of the Day_ Oddmar.jpg",
+            "name":"Oddmar",
+            "count":"213176",
+            "star1":"solid",
+            "star2":"solid",
+            "star3":"regular",
+            "star4":"regular",
+            "star5":"regular"
         },
         {
             "id":"1",
-            "src":"",
-            "name":"game3",
-            "count":"8000"
+            "src":"../DH22IT01-HoQuocHuy/allgames/one piece King of Pirate game android 2015.jpg",
+            "name":"One Piece",
+            "count":"42380",
+            "star1":"solid",
+            "star2":"solid",
+            "star3":"solid",
+            "star4":"solid",
+            "star5":"regular"
         },
         {
             "id":"1",
-            "src":"",
-            "name":"game3",
-            "count":"8000"
+            "src":"../DH22IT01-HoQuocHuy/allgames/Dragon Ball.jpg",
+            "name":"Dragon Ball",
+            "count":"805300",
+            "star1":"solid",
+            "star2":"regular",
+            "star3":"regular",
+            "star4":"regular",
+            "star5":"regular"
         },
         {
             "id":"1",
-            "src":"",
-            "name":"game3",
-            "count":"8000"
+            "src":"../DH22IT01-HoQuocHuy/allgames/icon, Lydia QX.jpg",
+            "name":"Lydia",
+            "count":"43200",
+            "star1":"solid",
+            "star2":"solid",
+            "star3":"solid",
+            "star4":"solid",
+            "star5":"regular"
         },
         {
             "id":"1",
-            "src":"",
-            "name":"game3",
-            "count":"8000"
+            "src":"../DH22IT01-HoQuocHuy/allgames/Monster Cube - mobile game.jpg",
+            "name":"Monster Cube",
+            "count":"432418",
+            "star1":"solid",
+            "star2":"solid",
+            "star3":"solid",
+            "star4":"solid",
+            "star5":"regular"
         },
         {
             "id":"1",
-            "src":"",
-            "name":"game3",
-            "count":"8000"
+            "src":"../DH22IT01-HoQuocHuy/allgames/Time Surfer _ App Price Drops.jpg",
+            "name":"Time Surfer",
+            "count":"84320",
+            "star1":"solid",
+            "star2":"regular",
+            "star3":"regular",
+            "star4":"regular",
+            "star5":"regular"
         },
         {
             "id":"1",
-            "src":"",
-            "name":"game3",
-            "count":"8000"
+            "src":"../DH22IT01-HoQuocHuy/allgames/Builder Master 3D kostenlos am PC spielen, so geht es!.jpg",
+            "name":"Builder Master 3D",
+            "count":"800650",
+            "star1":"solid",
+            "star2":"solid",
+            "star3":"solid",
+            "star4":"solid",
+            "star5":"regular"
         },
         {
             "id":"1",
-            "src":"",
-            "name":"game3",
-            "count":"8000"
+            "src":"../DH22IT01-HoQuocHuy/allgames/Viking Tavern.jpg",
+            "name":"Viking Tavern",
+            "count":"784320",
+            "star1":"solid",
+            "star2":"solid",
+            "star3":"regular",
+            "star4":"regular",
+            "star5":"regular"
         },
         {
             "id":"1",
-            "src":"",
-            "name":"game3",
-            "count":"8000"
+            "src":"../DH22IT01-HoQuocHuy/allgames/Fat Batty - IOS game.jpg",
+            "name":"Fat Batty",
+            "count":"879000",
+            "star1":"solid",
+            "star2":"solid",
+            "star3":"regular",
+            "star4":"regular",
+            "star5":"regular"
         },
         {
             "id":"1",
-            "src":"",
-            "name":"game3",
-            "count":"8000"
+            "src":"../DH22IT01-HoQuocHuy/allgames/Super Goal -Strichmann Fußball kostenlos am PC spielen, so geht es!.jpg",
+            "name":"Super Goal",
+            "count":"413843",
+            "star1":"solid",
+            "star2":"solid",
+            "star3":"solid",
+            "star4":"solid",
+            "star5":"solid"
         },
         {
             "id":"1",
-            "src":"",
-            "name":"game3",
-            "count":"8000"
+            "src":"../DH22IT01-HoQuocHuy/allgames/Dunk Up Basketball New Friv Games.jpg",
+            "name":"Dunk Up Basketball",
+            "count":"534590",
+            "star1":"solid",
+            "star2":"solid",
+            "star3":"regular",
+            "star4":"regular",
+            "star5":"regular"
         },
         {
             "id":"1",
-            "src":"",
-            "name":"game3",
-            "count":"8000"
+            "src":"../DH22IT01-HoQuocHuy/allgames/Free Garbage Truck 3D!!! 2023.jpg",
+            "name":"Garbage Truck 3D",
+            "count":"853453",
+            "star1":"solid",
+            "star2":"regular",
+            "star3":"regular",
+            "star4":"regular",
+            "star5":"regular"
         },
         {
             "id":"1",
-            "src":"",
-            "name":"game3",
-            "count":"8000"
+            "src":"../DH22IT01-HoQuocHuy/allgames/Join Blob Clash 3D kostenlos am PC spielen, so geht es!.jpg",
+            "name":"Join Blob Clash 3D",
+            "count":"756752",
+            "star1":"solid",
+            "star2":"regular",
+            "star3":"regular",
+            "star4":"regular",
+            "star5":"regular"
         },
         {
             "id":"1",
-            "src":"",
-            "name":"game3",
-            "count":"8000"
+            "src":"../DH22IT01-HoQuocHuy/allgames/Fun Race 3D kostenlos am PC spielen, so geht es!.jpg",
+            "name":"Fun Race 3D",
+            "count":"850934",
+            "star1":"solid",
+            "star2":"solid",
+            "star3":"solid",
+            "star4":"solid",
+            "star5":"solid"
         }
     ]
 }

@@ -2,99 +2,146 @@
     "game": [
         {
             "id":"1",
-            "src":"../images/Chinese New Year Celebrate, Uowls.png",
-            "name":"game1",
-            "count":"4000"
+            "src":"../DH22IT01-HoQuocHuy/allgames/Master League - Rush Force kostenlos am PC spielen, so geht es!.jpg",
+            "name":"Rush Force",
+            "count":"2500",
+            "star1":"solid",
+            "star2":"solid",
+            "star3":"solid",
+            "star4":"solid",
+            "star5":"regular"
         },
         {
             "id":"1",
-            "src":"",
-            "name":"game2",
-            "count":"8000"
+            "src":"../DH22IT01-HoQuocHuy/allgames/Mine Quest 2_Amazon_com_Appstore for Android.jpg",
+            "name":"Mine Quest 2",
+            "count":"7896",
+            "star1":"solid",
+            "star2":"regular",
+            "star3":"regular",
+            "star4":"regular",
+            "star5":"regular"
         },
         {
             "id":"1",
-            "src":"",
-            "name":"game3",
-            "count":"8000"
+            "src":"../DH22IT01-HoQuocHuy/allgames/Nooblasto.jpg",
+            "name":"Nooblasto",
+            "count":"7729",
+            "star1":"solid",
+            "star2":"solid",
+            "star3":"solid",
+            "star4":"solid",
+            "star5":"solid"
         },
         {
             "id":"1",
-            "src":"",
-            "name":"game3",
-            "count":"8000"
+            "src":"../DH22IT01-HoQuocHuy/allgames/Papers Grade Please! - F.jpg",
+            "name":"Papers Grade",
+            "count":"2000",
+            "star1":"solid",
+            "star2":"solid",
+            "star3":"solid",
+            "star4":"regular",
+            "star5":"regular"
         },
         {
             "id":"1",
-            "src":"",
-            "name":"game3",
-            "count":"8000"
+            "src":"../DH22IT01-HoQuocHuy/allgames/Plants vs Zombies 2.jpg",
+            "name":"Plants vs Zombies",
+            "count":"5560",
+            "star1":"solid",
+            "star2":"solid",
+            "star3":"solid",
+            "star4":"regular",
+            "star5":"regular"
         },
         {
             "id":"1",
-            "src":"",
-            "name":"game3",
-            "count":"8000"
+            "src":"../DH22IT01-HoQuocHuy/allgames/Puzzle Legends.jpg",
+            "name":"Puzzle Legends",
+            "count":"7895",
+            "star1":"solid",
+            "star2":"solid",
+            "star3":"solid",
+            "star4":"regular",
+            "star5":"regular"
         },
         {
             "id":"1",
-            "src":"",
-            "name":"game3",
-            "count":"8000"
+            "src":"../DH22IT01-HoQuocHuy/allgames/Shark character fishing game.jpg",
+            "name":"Shark character",
+            "count":"15124",
+            "star1":"solid",
+            "star2":"solid",
+            "star3":"regular",
+            "star4":"regular",
+            "star5":"regular"
         },
         {
             "id":"1",
-            "src":"",
-            "name":"game3",
-            "count":"8000"
+            "src":"../DH22IT01-HoQuocHuy/allgames/Sky Charms icons.jpg",
+            "name":"Sky Charms",
+            "count":"78212",
+            "star1":"solid",
+            "star2":"solid",
+            "star3":"solid",
+            "star4":"solid",
+            "star5":"solid"
         },
         {
             "id":"1",
-            "src":"",
-            "name":"game3",
-            "count":"8000"
+            "src":"../DH22IT01-HoQuocHuy/allgames/Talking Tom.jpg",
+            "name":"Talking Tom ",
+            "count":"17232",
+            "star1":"solid",
+            "star2":"solid",
+            "star3":"regular",
+            "star4":"regular",
+            "star5":"regular"
         },
         {
             "id":"1",
-            "src":"",
-            "name":"game3",
-            "count":"8000"
+            "src":"../DH22IT01-HoQuocHuy/allgames/Temple Run 2 Hits 20 Million Downloads In Its First Week On The App Store.jpg",
+            "name":"Temple Run 2",
+            "count":"121432",
+            "star1":"solid",
+            "star2":"solid",
+            "star3":"solid",
+            "star4":"solid",
+            "star5":"regular"
         },
         {
             "id":"1",
-            "src":"",
-            "name":"game3",
-            "count":"8000"
+            "src":"../DH22IT01-HoQuocHuy/allgames/Games – My Nintendo Store – Nintendo Official site.jpg",
+            "name":"Dr.Mario",
+            "count":"8000",
+            "star1":"solid",
+            "star2":"solid",
+            "star3":"solid",
+            "star4":"regular",
+            "star5":"regular"
         },
         {
             "id":"1",
-            "src":"",
-            "name":"game3",
-            "count":"8000"
+            "src":"../DH22IT01-HoQuocHuy/allgames/Toy Party.jpg",
+            "name":"Toy Party",
+            "count":"1900",
+            "star1":"solid",
+            "star2":"solid",
+            "star3":"regular",
+            "star4":"regular",
+            "star5":"regular"
         },
         {
             "id":"1",
-            "src":"",
-            "name":"game3",
-            "count":"8000"
-        },
-        {
-            "id":"1",
-            "src":"",
-            "name":"game3",
-            "count":"8000"
-        },
-        {
-            "id":"1",
-            "src":"",
-            "name":"game3",
-            "count":"8000"
-        },
-        {
-            "id":"1",
-            "src":"",
-            "name":"game3",
-            "count":"8000"
+            "src":"../DH22IT01-HoQuocHuy/allgames/Gravity Noodle kostenlos am PC spielen, so geht es!.jpg",
+            "name":"Gravity Noodle",
+            "count":"29800",
+            "star1":"solid",
+            "star2":"solid",
+            "star3":"solid",
+            "star4":"solid",
+            "star5":"solid"
         }
     ]
 }

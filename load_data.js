@@ -10,11 +10,11 @@ fetch("data.json").then(res => res.json()).then(data => {
             <h1>${a.name}</h1>
             <h2><i class="fa-solid fa-gamepad"></i>${a.count}</h2>
             <p>
-                <i class="fa-solid fa-star"></i>
-                <i class="fa-solid fa-star"></i>
-                <i class="fa-solid fa-star"></i>
-                <i class="fa-solid fa-star"></i>
-                <i class="fa-regular fa-star"></i>
+                <i class="fa-${a.star1} fa-star"></i>
+                <i class="fa-${a.star2} fa-star"></i>
+                <i class="fa-${a.star3} fa-star"></i>
+                <i class="fa-${a.star4} fa-star"></i>
+                <i class="fa-${a.star5} fa-star"></i>
             </p>
             </div>
         </div>
@@ -34,11 +34,11 @@ fetch("data1.json").then(res => res.json()).then(data => {
             <h1>${a.name}</h1>
             <h2><i class="fa-solid fa-gamepad"></i>${a.count}</h2>
             <p>
-                <i class="fa-solid fa-star"></i>
-                <i class="fa-solid fa-star"></i>
-                <i class="fa-solid fa-star"></i>
-                <i class="fa-solid fa-star"></i>
-                <i class="fa-regular fa-star"></i>
+            <i class="fa-${a.star1} fa-star"></i>
+            <i class="fa-${a.star2} fa-star"></i>
+            <i class="fa-${a.star3} fa-star"></i>
+            <i class="fa-${a.star4} fa-star"></i>
+            <i class="fa-${a.star5} fa-star"></i>
             </p>
             </div>
         </div>
@@ -58,11 +58,11 @@ fetch("data3.json").then(res => res.json()).then(data => {
             <h1>${a.name}</h1>
             <h2><i class="fa-solid fa-gamepad"></i>${a.count}</h2>
             <p>
-                <i class="fa-solid fa-star"></i>
-                <i class="fa-solid fa-star"></i>
-                <i class="fa-solid fa-star"></i>
-                <i class="fa-solid fa-star"></i>
-                <i class="fa-regular fa-star"></i>
+            <i class="fa-${a.star1} fa-star"></i>
+            <i class="fa-${a.star2} fa-star"></i>
+            <i class="fa-${a.star3} fa-star"></i>
+            <i class="fa-${a.star4} fa-star"></i>
+            <i class="fa-${a.star5} fa-star"></i>
             </p>
             </div>
         </div>

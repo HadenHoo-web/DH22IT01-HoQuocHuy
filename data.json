@@ -2,99 +2,135 @@
     "game": [
         {
             "id":"1",
-            "src":"../images/acc301eb-3252-468b-818a-69798abf938a.png",
-            "name":"game1",
-            "count":"4000"
+            "src":"../DH22IT01-HoQuocHuy/allgames/_Hay Day.jpg",
+            "name":"Hay Day",
+            "count":"5000",
+            "star1":"solid",
+            "star2":"solid",
+            "star3":"solid",
+            "star4":"solid",
+            "star5":"regular"
         },
         {
             "id":"1",
-            "src":"",
-            "name":"game2",
-            "count":"8000"
+            "src":"../DH22IT01-HoQuocHuy/allgames/_Chef's Quest.jpg",
+            "name":"Chef's Quest",
+            "count":"1350",
+            "star1":"solid",
+            "star2":"solid",
+            "star3":"solid",
+            "star4":"solid",
+            "star5":"regular"
         },
         {
             "id":"1",
-            "src":"",
-            "name":"game3",
-            "count":"8000"
+            "src":"../DH22IT01-HoQuocHuy/allgames/_Jetpack Joyride.jpg",
+            "name":"Joyride",
+            "count":"7000",
+            "star1":"solid",
+            "star2":"solid",
+            "star3":"solid",
+            "star4":"regular",
+            "star5":"regular"
         },
         {
             "id":"1",
-            "src":"",
-            "name":"game3",
-            "count":"8000"
+            "src":"../DH22IT01-HoQuocHuy/allgames/_Subway Surfers.jpg",
+            "name":"Subway Surfer",
+            "count":"6500",
+            "star1":"solid",
+            "star2":"solid",
+            "star3":"solid",
+            "star4":"solid",
+            "star5":"solid"
         },
         {
             "id":"1",
-            "src":"",
-            "name":"game3",
-            "count":"8000"
+            "src":"../DH22IT01-HoQuocHuy/allgames/ArtStation - Explore.jpg",
+            "name":"ArtStation",
+            "count":"3570",
+            "star1":"solid",
+            "star2":"solid",
+            "star3":"regular",
+            "star4":"regular",
+            "star5":"regular"
         },
         {
             "id":"1",
-            "src":"",
-            "name":"game3",
-            "count":"8000"
+            "src":"../DH22IT01-HoQuocHuy/allgames/Badminton Clash 3D.jpg",
+            "name":"Badminton Clash",
+            "count":"1540",
+            "star1":"solid",
+            "star2":"regular",
+            "star3":"regular",
+            "star4":"regular",
+            "star5":"regular"
         },
         {
             "id":"1",
-            "src":"",
-            "name":"game3",
-            "count":"8000"
+            "src":"../DH22IT01-HoQuocHuy/allgames/Bomb Man Legend Apk.jpg",
+            "name":"Bomb Man Legend",
+            "count":"5640",
+            "star1":"solid",
+            "star2":"solid",
+            "star3":"solid",
+            "star4":"solid",
+            "star5":"regular"
         },
         {
             "id":"1",
-            "src":"",
-            "name":"game3",
-            "count":"8000"
+            "src":"../DH22IT01-HoQuocHuy/allgames/Candy Crush Saga_Amazon_com_Appstore for Android.jpg",
+            "name":"Candy Crush",
+            "count":"6530",
+            "star1":"solid",
+            "star2":"solid",
+            "star3":"regular",
+            "star4":"regular",
+            "star5":"regular"
         },
         {
             "id":"1",
-            "src":"",
-            "name":"game3",
-            "count":"8000"
+            "src":"../DH22IT01-HoQuocHuy/allgames/Cut The Rope.jpg",
+            "name":"Cut The Rope",
+            "count":"6690",
+            "star1":"solid",
+            "star2":"solid",
+            "star3":"solid",
+            "star4":"regular",
+            "star5":"regular"
         },
         {
             "id":"1",
-            "src":"",
-            "name":"game3",
-            "count":"8000"
+            "src":"../DH22IT01-HoQuocHuy/allgames/Dr_Cares_ Amy's Pet Clinic.jpg",
+            "name":"Dr.Cares",
+            "count":"5579",
+            "star1":"solid",
+            "star2":"solid",
+            "star3":"solid",
+            "star4":"solid",
+            "star5":"solid"
         },
         {
             "id":"1",
-            "src":"",
-            "name":"game3",
-            "count":"8000"
+            "src":"../DH22IT01-HoQuocHuy/allgames/Journey of an Ice Cube, MAR Studio.jpg",
+            "name":"CLash Royale",
+            "count":"7853",
+            "star1":"solid",
+            "star2":"solid",
+            "star3":"solid",
+            "star4":"solid",
+            "star5":"regular"
         },
         {
             "id":"1",
-            "src":"",
-            "name":"game3",
-            "count":"8000"
-        },
-        {
-            "id":"1",
-            "src":"",
-            "name":"game3",
-            "count":"8000"
-        },
-        {
-            "id":"1",
-            "src":"",
-            "name":"game3",
-            "count":"8000"
-        },
-        {
-            "id":"1",
-            "src":"",
-            "name":"game3",
-            "count":"8000"
-        },
-        {
-            "id":"1",
-            "src":"",
-            "name":"game3",
-            "count":"8000"
+            "src":"../DH22IT01-HoQuocHuy/allgames/King of Defense 2_ Epic TD.jpg",
+            "name":"King of Defense",
+            "count":"5270",
+            "star1":"solid",
+            "star2":"regular",
+            "star3":"regular",
+            "star4":"regular",
+            "star5":"regular"
         }
     ]
 }
