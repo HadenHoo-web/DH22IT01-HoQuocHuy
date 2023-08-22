@@ -1,6 +1,6 @@
 fetch("data.json").then(res => res.json()).then(data => {
     let List = document.getElementById('list');
-    for(let a of data.game){
+    for(let a of data.game1){
         let newli = document.createElement('li');
         newli.classList.add("item");
         newli.innerHTML=`
@@ -21,10 +21,8 @@ fetch("data.json").then(res => res.json()).then(data => {
         `
         List.appendChild(newli);
     }
-})
-fetch("data1.json").then(res => res.json()).then(data => {
-    let List = document.getElementById('list1');
-    for(let a of data.game){
+    List = document.getElementById('list1');
+    for(let a of data.game2){
         let newli = document.createElement('li');
         newli.classList.add("item");
         newli.innerHTML=`
@@ -45,10 +43,9 @@ fetch("data1.json").then(res => res.json()).then(data => {
         `
         List.appendChild(newli);
     }
-})
-fetch("data3.json").then(res => res.json()).then(data => {
-    let List = document.getElementById('list3');
-    for(let a of data.game){
+    
+    List = document.getElementById('list3');
+    for(let a of data.game3){
         let newli = document.createElement('li');
         newli.classList.add("item");
         newli.innerHTML=`
